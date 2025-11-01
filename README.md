@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akbar</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel**
-
 - 📫 How to reach me **akbarramadhanb66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
