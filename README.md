@@ -35,7 +35,6 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=akbarr13&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarr13&layout=compact&theme=merko&hide_border=true&langs_count=5" width="40%" />
 </div>
 
 <br/>
@@ -50,4 +49,5 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=400&lines=GAME+OVER%3F+NAH...;STILL+PLAYING+%F0%9F%8E%AE" alt="footer" />
 </div>
+
 
