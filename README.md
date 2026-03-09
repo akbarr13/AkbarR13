@@ -1,30 +1,50 @@
-### hi, i'm akbar 👋
+<div align="center">
 
-web developer from indonesia. i like building clean interfaces and occasionally breaking things.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=HI%2C+I'M+AKBAR+%F0%9F%91%BE;WEB+DEVELOPER+%2F+INDONESIA;PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
 
----
+</div>
 
-**stack**
+<br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+```
+╔════════════════════════════════════════════╗
+║           ★  CHARACTER  STATUS  ★          ║
+╠════════════════════════════════════════════╣
+║  NAME    ›  AKBAR                          ║
+║  CLASS   ›  WEB DEVELOPER                  ║
+║  ORIGIN  ›  INDONESIA 🇮🇩                  ║
+║  STATUS  ›  [ CURRENTLY CODING... ]        ║
+║  EXP     ›  ████████░░░░  LVL UP SOON      ║
+╚════════════════════════════════════════════╝
+```
 
----
+<br/>
 
-**stats**
+**⚔️ EQUIPPED SKILLS**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=akbarr13&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" height="130" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarr13&layout=compact&theme=dark&hide_border=true&langs_count=5" height="130" />
+![Next.js](https://img.shields.io/badge/■%20NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/■%20TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=00FF41)
+![React](https://img.shields.io/badge/■%20REACT-000000?style=flat-square&logo=react&logoColor=00FF41)
+![Supabase](https://img.shields.io/badge/■%20SUPABASE-000000?style=flat-square&logo=supabase&logoColor=00FF41)
+![TailwindCSS](https://img.shields.io/badge/■%20TAILWIND-000000?style=flat-square&logo=tailwindcss&logoColor=00FF41)
+![Python](https://img.shields.io/badge/■%20PYTHON-000000?style=flat-square&logo=python&logoColor=00FF41)
 
-<br/><br/>
+<br/>
 
----
+**📊 BATTLE STATS**
 
-**reach me**
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=akbarr13&show_icons=true&theme=merko&hide_border=true&hide_title=true&count_private=true&icon_color=00FF41" height="130" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarr13&layout=compact&theme=merko&hide_border=true&langs_count=5" height="130" />
 
-[![Instagram](https://img.shields.io/badge/@notb.13-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/notb.13)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akbarramadhanb66@gmail.com)
+<br/><br/><br/>
+
+**📡 CONNECT**
+
+[![Instagram](https://img.shields.io/badge/■%20@notb.13-000000?style=flat-square&logo=instagram&logoColor=00FF41)](https://instagram.com/notb.13)
+[![Email](https://img.shields.io/badge/■%20EMAIL-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:akbarramadhanb66@gmail.com)
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=400&lines=GAME+OVER%3F+NAH...;STILL+PLAYING+%F0%9F%8E%AE" alt="footer" />
+</div>
