@@ -12,7 +12,7 @@
 ╠════════════════════════════════════════════╣
 ║  NAME    ›  AKBAR                          ║
 ║  CLASS   ›  WEB DEVELOPER                  ║
-║  ORIGIN  ›  INDONESIA 🇮🇩                  ║
+║  ORIGIN  ›  INDONESIA                      ║
 ║  STATUS  ›  [ CURRENTLY CODING... ]        ║
 ║  EXP     ›  ████████░░░░  LVL UP SOON      ║
 ╚════════════════════════════════════════════╝
@@ -48,3 +48,4 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=400&lines=GAME+OVER%3F+NAH...;STILL+PLAYING+%F0%9F%8E%AE" alt="footer" />
 </div>
+
