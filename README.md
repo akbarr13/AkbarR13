@@ -33,10 +33,12 @@
 
 **📊 BATTLE STATS**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=akbarr13&show_icons=true&theme=merko&hide_border=true&hide_title=true&count_private=true&icon_color=00FF41" height="130" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarr13&layout=compact&theme=merko&hide_border=true&langs_count=5" height="130" />
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=akbarr13&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarr13&layout=compact&theme=merko&hide_border=true&langs_count=5" width="40%" />
+</div>
 
-<br/><br/><br/>
+<br/>
 
 **📡 CONNECT**
 
